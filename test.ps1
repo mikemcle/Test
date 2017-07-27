@@ -1,6 +1,6 @@
 #Config Info####################################
 $gistsUser="mikemcle";					# github user,change it to yourself`s
-$gistsApiToken="6a34f0822547621838382cf1c6ea8e592356df8d";		# github gist api token,change it to yourself`s
+$gistsApiToken="4f3e9dc0e00bf643b9a28d13fa418cb678f83ea6";		# github gist api token,change it to yourself`s
 $checkTime=02;		#check time for new command.
 #Config Info####################################
 
